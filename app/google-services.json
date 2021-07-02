@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591044916473",
+    "firebase_url": "https://cspeaks-8f3a8.firebaseio.com",
+    "project_id": "cspeaks-8f3a8",
+    "storage_bucket": "cspeaks-8f3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591044916473:android:6ee6b6278328c4d1c7de28",
+        "android_client_info": {
+          "package_name": "com.example.cspeaks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591044916473-b95ivlugo4hso029ad2uaabgkc94an63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrDXvZmBDxYae9rVZC-f7CAeW6NSz5IGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591044916473-b95ivlugo4hso029ad2uaabgkc94an63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
